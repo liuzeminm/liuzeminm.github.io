@@ -1,4 +1,4 @@
-var day=""; 
+ï»¿var day=""; 
 var month=""; 
 var year=""; 
 mydate=new Date(); 
@@ -6,18 +6,18 @@ mymonth=mydate.getMonth()+1;
 myday= mydate.getDate(); 
 myyear= mydate.getYear(); 
 year=(myyear > 200) ? myyear : 1900 + myyear; 
-document.write(year+"Äê"+mymonth+"ÔÂ"+myday+"ÈÕ "); 
+document.write(year+"å¹´"+mymonth+"æœˆ"+myday+"æ—¥ "); 
 
 var urodz= new Date("6/12/2013");
-var s="¶ËÎç½Ú";
+var s="ç«¯åˆèŠ‚";
 var now = new Date();
 var ile = urodz.getTime() - now.getTime();
 var dni = Math.floor(ile / (1000 * 60 * 60 * 24))+1;
 if (dni > 1)
-document.write("Àë"+s+"»¹ÓĞ"+dni +"Ìì")
+document.write("ç¦»"+s+"è¿˜æœ‰"+dni +"å¤©")
 else if (dni == 1)
-document.write("Ã÷Ìì¾ÍÊÇ"+s+"À²£¡")
+document.write("æ˜å¤©å°±æ˜¯"+s+"å•¦ï¼")
 else if (dni == 0)
-document.write(""+s+"¿ìÀÖ£¡")
+document.write(""+s+"å¿«ä¹ï¼")
 else
-document.write("¼ÇµÃÒªÌìÌì¿ªĞÄÅ¶£¡");  
+document.write("è®°å¾—è¦å¤©å¤©å¼€å¿ƒå“¦ï¼");  
