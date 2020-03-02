@@ -1,0 +1,120 @@
+BODY {
+	MARGIN: 0px
+}
+#re_header {
+	BACKGROUND: #eee; marign: 0
+}
+#re_header .banner_text_top {
+	LINE-HEIGHT: 20px; COLOR: #999; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+#re_header .txt_blod {
+	COLOR: #ff0000
+}
+#re_header .ba_waikuang {
+	BORDER-BOTTOM: #ff0000 1px solid
+}
+#re_header A {
+	LINE-HEIGHT: 22px; COLOR: #333; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+#re_header A:hover {
+	LINE-HEIGHT: 22px; COLOR: #333; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+#re_mediapaly {
+	TEXT-ALIGN: center; MARGIN: 0px auto
+}
+#a1:link {
+	COLOR: #999; TEXT-DECORATION: none
+}
+#a2:link {
+	COLOR: #999; TEXT-DECORATION: none
+}
+#a3:link {
+	COLOR: #999; TEXT-DECORATION: none
+}
+#a4:link {
+	COLOR: #999; TEXT-DECORATION: none
+}
+#a1:visited {
+	COLOR: #999; TEXT-DECORATION: none
+}
+#a2:visited {
+	COLOR: #999; TEXT-DECORATION: none
+}
+#a3:visited {
+	COLOR: #999; TEXT-DECORATION: none
+}
+#a4:visited {
+	COLOR: #999; TEXT-DECORATION: none
+}
+#banquan A {
+	COLOR: #999; TEXT-DECORATION: none
+}
+.checkA {
+	TEXT-ALIGN: center; BORDER-LEFT: #f5b50a 1px solid; LINE-HEIGHT: 25px; WIDTH: 80px; DISPLAY: block; BACKGROUND: #ffffc1; FLOAT: left; HEIGHT: 25px; COLOR: #a60; FONT-SIZE: 14px; BORDER-TOP: #f5b50a 1px solid; FONT-WEIGHT: bold; MARGIN-RIGHT: 6px; BORDER-RIGHT: #f5b50a 1px solid; TEXT-DECORATION: none
+}
+.checkB {
+	TEXT-ALIGN: center; BORDER-LEFT: #f5b50a 1px solid; LINE-HEIGHT: 25px; WIDTH: 80px; DISPLAY: block; BACKGROUND: #ffffc1; FLOAT: left; HEIGHT: 25px; COLOR: #a60; FONT-SIZE: 14px; BORDER-TOP: #f5b50a 1px solid; FONT-WEIGHT: bold; MARGIN-RIGHT: 6px; BORDER-RIGHT: #f5b50a 1px solid; TEXT-DECORATION: none
+}
+.checkB {
+	BACKGROUND: #f5b50a; COLOR: #999
+}
+.xuanze_ts {
+	TEXT-ALIGN: center; MARGIN: 0px auto; WIDTH: 800px; COLOR: #f90; FONT-SIZE: 24px; FONT-WEIGHT: bold
+}
+#xuanze_content {
+	TEXT-ALIGN: center; MARGIN: 10px auto 0px; WIDTH: 681px; FONT-SIZE: 16px
+}
+.xuanze_btn .yangshi {
+	TEXT-ALIGN: center; BORDER-LEFT: #f5b50a 1px solid; LINE-HEIGHT: 25px; WIDTH: 80px; DISPLAY: block; BACKGROUND: #ffffc1; FLOAT: left; HEIGHT: 25px; COLOR: #999; FONT-SIZE: 14px; BORDER-TOP: #f5b50a 1px solid; FONT-WEIGHT: bold; MARGIN-RIGHT: 6px; BORDER-RIGHT: #f5b50a 1px solid
+}
+#huizeng {
+	LINE-HEIGHT: 23px; COLOR: #f90; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+#huizeng:hover {
+	COLOR: #f90; TEXT-DECORATION: underline
+}
+.xuanze_input1 {
+	BORDER-BOTTOM: #f5b50a 3px solid; TEXT-ALIGN: left; BORDER-LEFT: #f5b50a 3px solid; WIDTH: 679px; HEIGHT: 43px; COLOR: #999; BORDER-TOP: #f5b50a 3px solid; BORDER-RIGHT: #f5b50a 3px solid; PADDING-TOP: 20px
+}
+.xuanze_input2 {
+	BORDER-BOTTOM: #f5b50a 3px solid; TEXT-ALIGN: left; BORDER-LEFT: #f5b50a 3px solid; WIDTH: 679px; HEIGHT: 43px; COLOR: #999; BORDER-TOP: #f5b50a 3px solid; BORDER-RIGHT: #f5b50a 3px solid; PADDING-TOP: 20px
+}
+.xuanze_input3 {
+	BORDER-BOTTOM: #f5b50a 3px solid; TEXT-ALIGN: left; BORDER-LEFT: #f5b50a 3px solid; WIDTH: 679px; HEIGHT: 43px; COLOR: #999; BORDER-TOP: #f5b50a 3px solid; BORDER-RIGHT: #f5b50a 3px solid; PADDING-TOP: 20px
+}
+.xuanze_input4 {
+	BORDER-BOTTOM: #f5b50a 3px solid; TEXT-ALIGN: left; BORDER-LEFT: #f5b50a 3px solid; WIDTH: 679px; HEIGHT: 43px; COLOR: #999; BORDER-TOP: #f5b50a 3px solid; BORDER-RIGHT: #f5b50a 3px solid; PADDING-TOP: 20px
+}
+.xuanze_input1 .ys1_str {
+	MARGIN-LEFT: 20px
+}
+.xuanze_input2 .ys2_str {
+	MARGIN-LEFT: 20px
+}
+.xuanze_input4 .ys4_str {
+	MARGIN-LEFT: 20px
+}
+.ys1_name {
+	WIDTH: 222px
+}
+.ys3_name {
+	WIDTH: 100px
+}
+.ys4_name {
+	WIDTH: 310px
+}
+#c1 {
+	DISPLAY: block
+}
+#c2 {
+	DISPLAY: none
+}
+#c3 {
+	DISPLAY: none
+}
+#c4 {
+	DISPLAY: none
+}
+#banquan {
+	TEXT-ALIGN: center; MARGIN: 5px auto 0px; WIDTH: 730px; COLOR: #999; FONT-SIZE: 12px
+}
